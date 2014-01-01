@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"font_size": 22,
+	"ignored_packages":
+	[
+		"View In Browser",
+		"emmet-sublime-master"
+	]
+}
