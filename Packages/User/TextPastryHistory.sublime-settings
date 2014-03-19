@@ -1,0 +1,62 @@
+{
+	"history":
+	{
+		"-1534819360524372317":
+		{
+			"command": "text_pastry_insert_text",
+			"date": 1392709715.01,
+			"label": "\\p",
+			"separator": null,
+			"text": "$(\"\").val(<?php echo $this->totalAmount['']; ?>);"
+		},
+		"-5854805494649227837":
+		{
+			"command": "insert_nums",
+			"date": 1393409170.57,
+			"label": "\\i",
+			"separator": null,
+			"text": "1 1 1"
+		},
+		"-6700858992557921903":
+		{
+			"command": "text_pastry_insert_text",
+			"date": 1392709709.37,
+			"label": "\\p(\\n)",
+			"separator": "\\n",
+			"text": "$(\"\").val(<?php echo $this->totalAmount['']; ?>);"
+		},
+		"-9157606775661750481":
+		{
+			"command": "insert_nums",
+			"date": 1392976717.49,
+			"label": "\\i",
+			"separator": null,
+			"text": "1 1 1"
+		},
+		"2008452341585763890":
+		{
+			"command": "insert_nums",
+			"date": 1392279175.24,
+			"label": "\\i(100,5)",
+			"separator": null,
+			"text": "100 5 1"
+		},
+		"6808001713929279214":
+		{
+			"command": "insert_nums",
+			"date": 1392878161.99,
+			"label": "\\i0",
+			"separator": null,
+			"text": "0 1 1"
+		}
+	},
+	"last_command":
+	{
+		"command": "insert_nums",
+		"index": 6,
+		"key": "-5854805494649227837",
+		"label": "\\i",
+		"separator": null,
+		"text": "1 1 1"
+	}
+}

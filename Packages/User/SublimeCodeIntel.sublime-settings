@@ -1,0 +1,6 @@
+{
+	"codeintel_tooltips": "panel",
+	"codeintel_snippets": false,
+	"sublime_auto_complete": true,
+	"codeintel_live": true
+}

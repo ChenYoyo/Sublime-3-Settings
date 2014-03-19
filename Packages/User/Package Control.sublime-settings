@@ -1,11 +1,31 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
 		"BracketHighlighter",
 		"Browser Refresh",
+		"Cscope",
+		"CTags",
+		"DashDoc",
+		"FileDiffs",
 		"FindKeyConflicts",
+		"Goto Documentation",
+		"jQuery",
+		"PhpDoc",
+		"SideBarEnhancements",
 		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-php",
+		"SyncedSideBar",
 		"Tag",
-		"View In Browser"
+		"Text Pastry",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces",
+		"View In Browser",
+		"Xdebug Client"
 	]
 }

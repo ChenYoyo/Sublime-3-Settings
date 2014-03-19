@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
-	"font_size": 22,
+	"CscopeSublime_executable": "/opt/local/bin/cscope",
+	"color_scheme": "Packages/User/Tomorrow-Night-Bright (SL).tmTheme",
+	"font_size": 19,
 	"ignored_packages":
 	[
-		"View In Browser",
-		"emmet-sublime-master"
+		"AlignTab",
+		"SublimeLinter-annotations",
+		"TrailingSpaces"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	  "settings": {
+        "xdebug": {
+             // "url": "http://newlife-system.local/user/",
+             // "max_children": "256",
+             // "max_data": "1023",
+             // "max_depth": "1023",
+             // "super_globals": "true"
+        }
+    }
+}
